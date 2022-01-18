@@ -33,4 +33,4 @@ Executer le projet en ligne sur myBinder :
 
 Executer le projet en ligne sur myBinder avec voila :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Amelie-Leboeuf/CNAM-USSI39/HEAD?labpath=voila)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Amelie-Leboeuf/CNAM-USSI39/HEAD?urlpath=voila)
